@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /files/Pedro_CV.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=SXfLTbcAAAAJ&hl=pt-BR
