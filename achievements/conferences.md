@@ -29,5 +29,4 @@ I had the honor of presenting our research at the 47th European International Bu
 ---
 
 ### Official Documentation
-You can access the formal presentation certificate here:  
-**[Download Presentation Certificate (PDF)](/files/EIBA%202021%20Certificate.pdf)**
+You can access the formal presentation certificate [here](/files/EIBA%202021%20Certificate.pdf).
