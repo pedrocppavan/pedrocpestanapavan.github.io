@@ -19,7 +19,7 @@ I had the honor of presenting our research at the 47th European International Bu
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="/images/my_presentation.png" alt="Presentation at EIBA" style="width: 48%; border-radius: 5px;">
-  <img src="/images/Group_panel.png" alt="EIBA Group Panel" style="width: 48%; border-radius: 5px;">
+  <img src="/images/Group_panel.jpg" alt="EIBA Group Panel" style="width: 48%; border-radius: 5px;">
 </div>
 
 <p align="center">
