@@ -13,13 +13,11 @@ I had the honor of presenting our research at the 47th European International Bu
 
 **Authors:** Pedro Cesar Pestana Pavan, Daniel Ferreira Caixe, Natalia Diniz-Maganini, and Hsia Hua Sheng.
 
----
-
 ### Presentation Highlights
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="/images/my_presentation.png" alt="Presentation at EIBA" style="width: 48%; border-radius: 5px;">
-  <img src="/images/Group_panel.jpg" alt="EIBA Group Panel" style="width: 48%; border-radius: 5px;">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/my_presentation.png" alt="Presentation at EIBA" style="width: 40%; border-radius: 5px;">
+  <img src="/images/Group_panel.jpg" alt="EIBA Group Panel" style="width: 40%; border-radius: 5px;">
 </div>
 
 <p align="center">
