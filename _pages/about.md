@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in Business Administration (Finance) at the Sao Paulo School of Business Administration (EAESP FGV). I also hold a Master's degree in Finance and Controllership (2020) and an Executive MBA (2013) from the same institution. Previously, I received my B.A. in Economics from PUC-SP (2005). My current CV can be found [here](/files/Pedro_CV.pdf).
 
+I am a Ph.D. Candidate in Business Administration (Finance) at FGV EAESP, where I also earned my Master’s in Finance and Controllership and an Executive MBA. 
 
-My primary field is Sustainable Finance.
+My current research focuses on Sustainable Finance, building upon prior studies in Institutional Investor Ownership and Corporate Governance. My work has been published in [Emerging Markets Finance and Trade](https://doi.org/10.1080/10.1080/1540496X.2023.2218967) and presented at the EIBA Conference in Madrid. 
+
+I have served as a graduate-level teaching assistant and I am a specialist in financial databases, holding an LSEG Eikon certification with extensive experience in Bloomberg, Factset, and S&P Capital IQ.
+
+My current CV can be found [here](/files/Pedro_CV.pdf).
 
 You can email me at: pavan.pedro@fgv.edu.br
