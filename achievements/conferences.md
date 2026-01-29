@@ -11,8 +11,6 @@ author_profile: true
 
 **Authors:** Pedro Cesar Pestana Pavan, Daniel Ferreira Caixe, Natalia Diniz-Maganini, and Hsia Hua Sheng.
 
----
-
 ### Presentation Highlights
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
