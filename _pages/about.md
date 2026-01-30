@@ -16,6 +16,6 @@ redirect_from:
     I have served as a graduate-level teaching assistant and I am a specialist in financial databases, holding an LSEG Eikon certification with extensive experience in Bloomberg, Factset, and S&P Capital IQ.
 
     My current **CV** can be found **[here](/files/Pedro_CV.pdf)**.
-    Portuguese version **[Currículo Lattes](http://lattes.cnpq.br/3116107230669494)**.
+    Portuguese version **[Lattes](http://lattes.cnpq.br/3116107230669494)**.
 
     You can email me at: **pavan.pedro@fgv.edu.br**
